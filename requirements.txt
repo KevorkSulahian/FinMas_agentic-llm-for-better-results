@@ -72,7 +72,7 @@ fastavro==1.9.7
 fastcore==1.7.19
 fastjsonschema==2.20.0
 feedparser==6.0.11
-filelock==3.16.1
+filelock==3.20.3
 financedatabase==2.2.2
 financetoolkit==1.9.8
 flatbuffers==24.3.25
