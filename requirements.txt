@@ -242,7 +242,7 @@ parso==0.8.4
 peewee==3.17.7
 pexpect==4.9.0
 pfzy==0.3.4
-pillow==11.0.0
+pillow==12.1.1
 pkginfo==1.11.2
 platformdirs==4.3.6
 plotly==5.24.1
