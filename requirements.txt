@@ -156,7 +156,7 @@ lancedb==0.5.7
 langchain==0.2.16
 langchain-cohere==0.1.9
 langchain-community==0.2.17
-langchain-core==0.2.41
+langchain-core==1.2.11
 langchain-experimental==0.0.65
 langchain-openai==0.1.25
 langchain-text-splitters==0.2.4
