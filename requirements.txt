@@ -344,7 +344,7 @@ torch==2.5.1+cpu
 tornado==6.4.1
 tqdm==4.66.5
 traitlets==5.14.3
-transformers==4.45.2
+transformers==4.53.0
 trio==0.27.0
 trio-websocket==0.11.1
 trove-classifiers==2024.10.16
