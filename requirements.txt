@@ -142,7 +142,7 @@ jupyter-client==8.6.3
 jupyter-core==5.7.2
 jupyter-events==0.10.0
 jupyter-lsp==2.2.5
-jupyter-server==2.14.2
+jupyter-server==2.18.0
 jupyter-server-terminals==0.5.3
 jupyterlab==4.5.7
 jupyterlab-pygments==0.3.0
@@ -194,7 +194,7 @@ mdit-py-plugins==0.4.2
 mdurl==0.1.2
 mem0ai==0.1.21
 minijinja==2.2.0
-mistune==3.0.2
+mistune==3.2.1
 mmh3==5.0.1
 monotonic==1.6
 more-itertools==10.5.0
