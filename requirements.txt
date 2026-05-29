@@ -113,7 +113,7 @@ humanfriendly==10.0
 humanize==4.11.0
 hvplot==0.11.1
 hyperframe==6.0.1
-idna==3.10
+idna==3.15
 importlib-metadata==8.4.0
 importlib-resources==6.4.5
 iniconfig==2.0.0
