@@ -62,7 +62,7 @@ distro==1.9.0
 docker==7.1.0
 docstring-parser==0.16
 docx2txt==0.8
-dulwich==0.21.7
+dulwich==1.2.5
 durationpy==0.9
 edgartools==2.34.2
 embedchain==0.1.122
